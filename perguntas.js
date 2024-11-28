@@ -29,7 +29,7 @@ criaCartao(
 )
 
 criaCartao(
-    'historia  ',
+    'História',
     'De quem é a famosa frase “Penso, logo existo”?',
     'Descartes'
 )

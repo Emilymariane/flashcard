@@ -21,3 +21,9 @@ criaCartao(
     'Quem foi a primeira pessoa a viajar no Espaço?',
     'Quem foi a primeira pessoa a viajar no espaço foi Yuri Gagarin.'
 )
+
+criaCartao(
+    'Sociologia  ',
+    'Segundo Émile Durkheim (1858-1917), as três principais características do Fato Social são',
+    'A generalidade, a exterioridade e a coercitividade.'
+)

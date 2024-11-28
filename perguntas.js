@@ -17,7 +17,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'História',
+    'Quem foi a primeira pessoa a viajar no Espaço?',
+    'Quem foi a primeira pessoa a viajar no espaço foi Yuri Gagarin.'
 )

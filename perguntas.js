@@ -23,7 +23,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Sociologia  ',
+    'Sociologia',
     'Segundo Émile Durkheim (1858-1917), as três principais características do Fato Social são',
     'A generalidade, a exterioridade e a coercitividade.'
 )

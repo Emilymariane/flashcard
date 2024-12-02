@@ -11,13 +11,13 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
+    'Programação ',
     'O que é uma função?',
     'Uma função é um bloco de código que executa alguma tarefa'
 )
 
 criaCartao(
-    'História',
+    'História ',
     'Quem foi a primeira pessoa a viajar no Espaço?',
     'Quem foi a primeira pessoa a viajar no espaço foi Yuri Gagarin.'
 )
